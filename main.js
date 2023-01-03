@@ -1,5 +1,5 @@
 // linear regression
-let xVals = []
+let xVals = [] 
 let yVals = []
 let m, b
 
